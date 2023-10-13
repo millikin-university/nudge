@@ -1,7 +1,7 @@
 {
     "osVersionRequirements": [
         {
-            "requiredInstallationDate": "2017-01-01T00:00:00Z",
+            "requiredInstallationDate": "2023-10-20T00:00:00Z",
             "requiredMinimumOSVersion": "12.7",
         }
     ]
