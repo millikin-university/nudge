@@ -9,5 +9,8 @@
       "iconDarkPath": "/private/var/millikin/images/logo_rounded.png",
       "iconLightPath": "/private/var/millikin/images/logo_rounded.png",
       "simpleMode": false
+    },
+    "userExperience": {
+      "allowedDeferrals": 5
     }
 }
