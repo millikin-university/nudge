@@ -1,7 +1,7 @@
 {
     "osVersionRequirements": [
         {
-            "requiredInstallationDate": "2023-10-20T00:00:00Z",
+            "requiredInstallationDate": "2023-10-15T00:00:00Z",
             "requiredMinimumOSVersion": "13.7",
             "aboutUpdateURL": "https://support.apple.com/en-us/HT213268"
         }
