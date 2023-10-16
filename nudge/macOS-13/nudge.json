@@ -2,15 +2,18 @@
     "osVersionRequirements": [
         {
             "requiredInstallationDate": "2023-10-20T00:00:00Z",
-            "requiredMinimumOSVersion": "13.7"
+            "requiredMinimumOSVersion": "13.7",
+            "aboutUpdateURL": "https://support.apple.com/en-us/HT213268"
         }
     ],
     "userInterface": {
       "iconDarkPath": "/private/var/millikin/images/logo_rounded.png",
-      "iconLightPath": "/private/var/millikin/images/logo_rounded.png",
-      "simpleMode": false
+      "iconLightPath": "/private/var/millikin/images/logo_rounded.png"
     },
-    "userExperience": {
-      "allowedDeferrals": 5
+    "optionalFeatures": {
+      "acceptableCameraUsage": true,
+      "acceptableScreenSharingUsage": true,
+      "aggressiveUserFullScreenExperience": false,
+      "aggressiveUserExperience": false
     }
 }
