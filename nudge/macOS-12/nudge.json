@@ -3,6 +3,25 @@
         {
             "requiredInstallationDate": "2023-10-20T00:00:00Z",
             "requiredMinimumOSVersion": "12.7",
+            "aboutUpdateURL": "https://support.apple.com/en-us/HT212585"
         }
-    ]
+    ],
+    "userInterface": {
+      "iconDarkPath": "/private/var/millikin/images/logo_rounded.png",
+      "iconLightPath": "/private/var/millikin/images/logo_rounded.png",
+      "updateElements": [
+        {
+          "_language": "en",
+          "mainHeader": "Your Mac Requires a System and Security Update",
+          "subHeader": "Millikin University Department of Information Technology",
+          "mainContentText": "A fully up-to-date device is required to ensure that IT can accurately maintain and protect your device.\n\nTo begin the update, click on the 'Update Device' button and Install the available updates shown within the 'Software Update' window.\n\nYou may be required accept an Update License Agreement or enter your macOS Credentials to apply the update.\n\nIf you have any issues, please contact the Millikin University IT Help Desk.\n\nIT Help Desk:\n\nShilling Hall - Room 106, Monday - Friday - 8 A.M. to 4:30 P.M.\n\nPhone: (217) 362-6488 - Email: infotech@millikin.edu"
+        }
+      ]
+    },
+    "optionalFeatures": {
+      "acceptableCameraUsage": true,
+      "acceptableScreenSharingUsage": true,
+      "aggressiveUserFullScreenExperience": false,
+      "aggressiveUserExperience": false
+    }
 }
