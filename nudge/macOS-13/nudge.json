@@ -1,8 +1,8 @@
 {
     "osVersionRequirements": [
         {
-            "requiredInstallationDate": "2023-10-20T00:00:00Z",
-            "requiredMinimumOSVersion": "13.6",
+            "requiredInstallationDate": "2023-11-04T00:00:00Z",
+            "requiredMinimumOSVersion": "13.6.1",
             "aboutUpdateURL": "https://support.apple.com/en-us/HT213268"
         }
     ],
